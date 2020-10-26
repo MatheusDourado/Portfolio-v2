@@ -1,0 +1,26 @@
+{
+  "name": "portfolio-2.0",
+  "version": "0.0.1",
+  "description": "Portfolio pessoal com projetos pessoais, redes sociais e are de contato.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Matheus",
+    "Dourado",
+    "Dev",
+    "Desenvolvedor",
+    "WEB",
+    "Programador"
+  ],
+  "author": "Matheus Dourado",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemailer": "^6.4.14"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
